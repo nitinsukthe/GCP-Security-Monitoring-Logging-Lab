@@ -32,47 +32,6 @@ Alert Policies
 Security Investigation
 ```
 
----
-
-# Repository Structure
-
-```text
-GCP-Security-Monitoring-Logging-Lab/
-│
-├── README.md
-│
-├── docs/
-│   ├── Project-Overview.md
-│   ├── Cloud-Audit-Logs-Analysis.md
-│   ├── Log-Based-Metric-Implementation.md
-│   ├── Cloud-Monitoring-Alerting.md
-│   ├── IAM-Security-Review.md
-│   ├── Security-Recommendations.md
-│   └── Cleanup-Steps.md
-│
-├── reports/
-│   └── GCP-Security-Monitoring-Logging-Report.pdf
-│
-├── screenshots/
-│   ├── 01-GCP-Project-Created.png
-│   ├── 02-Required-APIs-Enabled.png
-│   ├── 03-Security-Command-Center-Access.png
-│   ├── 04-Security-Command-Center-Restriction.png
-│   ├── 05-Cloud-Audit-Logs-Review.png
-│   ├── 06-Log-Based-Metric-Created.png
-│   ├── 07-Alert-Policy-Created.png
-│   ├── 08-IAM-Security-Review.png
-│
-├── findings/
-│   ├── Security-Findings.md
-│   └── Risk-Assessment.md
-│
-└── assets/
-    └── architecture-diagram.png
-```
-
----
-
 # Technologies Used
 
 * Google Cloud Platform (GCP)
@@ -385,14 +344,8 @@ Contains:
 
 Nitin Sukthe
 
-Aspiring Cloud Security Engineer
+Future Cloud Security Engineer
 
 Focused on:
 
-* Cloud Security
-* AWS Security
-* GCP Security
-* IAM Security
-* Security Monitoring
-* Detection Engineering
-* SOC Operations
+Cloud Security, AWS Security, GCP Security, IAM Security, Security Monitoring, Detection Engineering, SOC Operations.

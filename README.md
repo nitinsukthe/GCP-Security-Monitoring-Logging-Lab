@@ -94,15 +94,11 @@ Security monitoring services successfully enabled.
 
 # Step 3 – Security Command Center Review
 
-Attempted to access Security Command Center.
+Attempted to access Security Command Center Unavailable.
 
 ### Screenshot
 
-![SCC Access](screenshots/03-Security-Command-Center-Access.png)
-
-### Screenshot
-
-![SCC Restriction](screenshots/04-Security-Command-Center-Restriction.png)
+![SCC Access](screenshots/03-Security-Command-Center-Unavailable.png)
 
 ### Finding
 
@@ -131,7 +127,7 @@ resource.type="audited_resource"
 
 ### Screenshot
 
-![Audit Logs](screenshots/05-Cloud-Audit-Logs-Review.png)
+![Audit Logs](screenshots/04-Cloud-Audit-Logs-Review.png)
 
 ### Events Identified
 
@@ -159,7 +155,7 @@ vm_activity_metric
 
 ### Screenshot
 
-![Metric](screenshots/06-Log-Based-Metric-Created.png)
+![Metric](screenshots/05-Log-Based-Metric-Created.png)
 
 ### Purpose
 
@@ -183,7 +179,7 @@ GCE VM Activity Alert
 
 ### Screenshot
 
-![Alert Policy](screenshots/07-Alert-Policy-Created.png)
+![Alert Policy](screenshots/06-Cloud-Monitoring-Alert-Policy.png)
 
 ### Alert Flow
 
@@ -211,7 +207,7 @@ Reviewed project-level access permissions.
 
 ### Screenshot
 
-![IAM Review](screenshots/08-IAM-Security-Review.png)
+![IAM Review](screenshots/07-IAM-Security-Review.png)
 
 ### Finding 1
 
